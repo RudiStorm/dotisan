@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFrameworks>net10.0;net8.0;net6.0</TargetFrameworks>
+		<Description>Fluent, human-readable assertions for tests.</Description>
+		<PackageId>Dotisan.Assert</PackageId>
+	</PropertyGroup>
+</Project>
