@@ -4,6 +4,25 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <!-- NuGet Package Metadata -->
+    <PackageId>Dotisan.Faker</PackageId>
+    <Title>Dotisan.Faker - Lightweight Fake Data Generator</Title>
+    <Description>A lightweight fake data generator for .NET tests, part of the Dotisan test ecosystem. Generates realistic South African names, addresses, phone numbers, emails, and more with optional seeding for reproducible test data.</Description>
+    <Authors>Dotisan Contributors</Authors>
+    <Company>BCMZA (Business Credit Management)</Company>
+    <Product>Dotisan Test Ecosystem</Product>
+    <Copyright>Copyright (c) BCMZA. All rights reserved.</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/bcmza/dotisan</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/bcmza/dotisan</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>testing;faker;fake-data;test-data;south-africa;dotisan</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
   </PropertyGroup>
 
 </Project>
